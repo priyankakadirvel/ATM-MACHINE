@@ -1,4 +1,4 @@
-Basic ATM Machine working 
+Basic ATM Machine - working 
 
-#1st repository
-#done in python
+#MY1st repository
+#pythonprogramming
